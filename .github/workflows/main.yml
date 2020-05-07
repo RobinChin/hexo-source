@@ -10,6 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v1
       with:
+        token: ${{ secrets.DEPLOY_KEY }}
         submodules: true # Checkout private submodules(themes or something else).
     
     # Caching dependencies to speed up workflows. (GitHub will remove any cache entries that have not been accessed in over 7 days.)
