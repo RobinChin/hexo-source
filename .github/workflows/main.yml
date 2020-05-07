@@ -32,7 +32,7 @@ jobs:
       with:
         user_name: robinchin
         user_email: chin_chin0110@hotmail.com
-        deploy_key: ${{ secrets.public_key }}
+        deploy_key: ${{ secrets.deploy_key }}
     # Use the output from the `deploy` step(use for test action)
     - name: Get the output
       run: |
