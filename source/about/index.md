@@ -1,18 +1,15 @@
 # Robin Chin
 robin.chin0110@gmail.com
-(+65)91113925
 
 ---
 
-iOS developer with Swift for 5 years, focus on code quality and programming skill. Very good at building CI/CD for mobile. Emphasise on App architecture and UI details. Excellent at survey new technology about iOS. Open-minded and willing to co-work with others. Enjoy uncovering good solutions when brainstorming with other brilliant teammates.
+A communicative and collaborative iOS developer. Emphasize on App architecture and UI details. Enjoy building automation and uncovering solutions to increase productivity of teams. Like to learn new technology and share it with peoples.
 
 ## **WORK EXPERIENCE**
 
-##### iOS Engineer - 99.co
-- Built Jenkins and fastlane pipeline, integrate with Slack.
-- Reduced 30% app launch time.
-- Refactored legacy feature to MVVM and added unit test.
-- Debugged with dSYM to fix several critical issues.
+##### iOS Engineer - 99.co (Current)
+- https://apps.apple.com/sg/app/99-co-singapore-property-hdbs/id935675660
+- https://www.99.co
 
 ##### iOS Engineer - KKBOX
 - Maintained KKTIX and KKTIX Manager.
